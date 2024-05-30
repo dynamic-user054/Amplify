@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859757132806",
+    "project_id": "amplify-be01b",
+    "storage_bucket": "amplify-be01b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859757132806:android:a9d90b39fc4c2885f31787",
+        "android_client_info": {
+          "package_name": "com.example.amplify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1iQpsh51CdzbOsaG9WG1t42QObC8LucU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
